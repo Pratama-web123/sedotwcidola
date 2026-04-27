@@ -20,7 +20,7 @@ Website layanan Sedot WC Idola yang dirancang untuk menampilkan informasi layana
   - Banjarnegara  
   - Cilacap  
 
-- **Integrasi Google Maps**  
+- Integrasi Google Maps 
   Menampilkan lokasi layanan melalui peta interaktif untuk memudahkan pengguna menemukan lokasi.
 
 ## Teknologi
@@ -32,4 +32,4 @@ Website layanan Sedot WC Idola yang dirancang untuk menampilkan informasi layana
 Membuat website company profile layanan sedot WC yang informatif, mudah digunakan, serta mendukung peningkatan jangkauan pelanggan melalui optimasi digital.
 
 ## Author
-Dikembangkan oleh [Anugerah Bagus Pratama]
+Dikembangkan oleh Anugerah Bagus Pratama
